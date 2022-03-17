@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">DemoNavigation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment_1">Hello blank fragment 1</string>
+    <string name="hello_blank_fragment_2">Hello blank fragment 2</string>
+    <string name="hello_blank_fragment_3">Hello blank fragment 3</string>
+    <string name="hello_blank_fragment_4">Hello blank fragment 4</string>
+    <string name="hello_blank_fragment_5">Hello blank fragment 5</string>
+    <string name="hello_blank_fragment_6">Hello blank fragment 6</string>
+    <string name="hello_blank_fragment_7">Hello blank fragment 7</string>
+    <string name="hello_blank_fragment_8">Hello blank fragment 8</string>
+    <string name="hello_blank_fragment_9">Hello blank fragment 9</string>
+    <string name="hello_blank_fragment_10">Hello blank fragment 10</string>
+    <string name="go_to_second">Go to Second</string>
+    <string name="go_to_first">Go to First</string>
+    <string name="go_to_third">Go to Third</string>
+    <string name="go_to_fourth">Go to Fourth</string>
+    <string name="go_to_fifth">Go to Fifth</string>
+    <string name="go_to_sixth">Go to Sixth</string>
+    <string name="go_to_seventh">Go to Seventh</string>
+    <string name="go_to_eighth">Go to Eighth</string>
+    <string name="go_to_ninth">Go to ninth</string>
+    <string name="go_to_tenth">Go to Tenth</string>
+    <string name="first">First</string>
+    <string name="second">Second</string>
+    <string name="third">Third</string>
+    <string name="fourth">Fourth</string>
+    <string name="fifth">Fifth</string>
+    <string name="sixth">Sixth</string>
+    <string name="seventh">Seventh</string>
+    <string name="eighth">Eighth</string>
+    <string name="ninth">Ninth</string>
+    <string name="tenth">Tenth</string>
+</resources>
